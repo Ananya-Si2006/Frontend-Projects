@@ -1,23 +1,19 @@
-# Spotify Clone 🎵
+# Frontend Projects 🚀
 
-A frontend clone of Spotify built using HTML and CSS.
+A collection of frontend projects built using HTML, CSS, and JavaScript.
 
-## Features
+This repository contains my practice projects, UI clones, and web development experiments created to improve my frontend development skills.
 
-* Music player UI
-* Sidebar navigation
-* Playlist cards
-* Interactive player controls
-
-## Technologies Used
+## Tech Stack
 
 * HTML5
 * CSS3
+* JavaScript
 
-## How to Run
+## Purpose
 
-Open `spotify.html` in your browser.
+* Practice frontend development
+* Build responsive user interfaces
+* Improve web design and styling skills
 
-## Project Purpose
-
-Built for frontend practice and UI cloning.
+More projects will be added regularly as I continue learning and building.
